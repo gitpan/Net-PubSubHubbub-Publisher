@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:                Net-PubSubHubbub-Publisher
-version:             0.90
+version:             0.91
 abstract:            client library to ping a PubSubHubbub hub
 license:             ~
 author:              
